@@ -1,0 +1,47 @@
+* {
+ 
+  font-family: "Times New Roman", Times, serif;
+
+}
+#navbar  {
+	background-color: #A1B873;
+}
+.navbar-default button.navbar-toggle    {
+	margin-top: 10px;	
+	border: 2px solid #045344;
+}
+.navbar-header h2{
+	margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    position: absolute;
+}
+#nav-list{
+	background-color: #A1B873;
+	text-align: center;
+	margin-top: 0px;
+}
+#nav-list a:hover{
+	background-color: #F89A27;
+}
+#nav-list a span{
+	font-size: 1.6em;
+	color: #000000;
+}
+#row-des {
+
+	background-color: #66B49F;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;	
+}
+#row-des p{
+	margin: -10px;
+}
+#main-text{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+}
+
